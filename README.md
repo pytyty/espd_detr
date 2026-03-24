@@ -1,4 +1,4 @@
-# ESPD-DETR: Enhancing Small-Object Representation...
+# ESPD-DETR: Enhancing Small-Object Representation with Context-Guided Feature Pyramids for UAV Imagery
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
 
