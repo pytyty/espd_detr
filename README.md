@@ -12,7 +12,7 @@ Official implementation of the paper submitted to **The Visual Computer**.
 ## 🛠️ Setup
 1. `pip install -r requirements.txt`
 2. Prepare VisDrone dataset in `data/`
-3. Run `python train.py --config configs/espd_detr_l.yaml`
+3. Run `python train.py --config configs/espd_detr.yaml`
 
  ## 📦 Pre-trained Models
 The pre-trained weights for ESPD-DETR on the VisDrone2019 dataset are available in the [Releases](https://github.com/pytyty/espd_detr/releases) page. You can download `best.pt` and place it in the `weights/` directory for evaluation.
