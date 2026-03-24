@@ -20,5 +20,5 @@ The pre-trained weights for ESPD-DETR on the VisDrone2019 dataset are available 
 ## 🚀 Evaluation
 To evaluate the model on the VisDrone validation set, run:
 ```bash
-python val.py --config configs/espd_detr_l.yaml --weights weights/best.pt
+python val.py --config configs/espd_detr.yaml --weights weights/best.pt
 
