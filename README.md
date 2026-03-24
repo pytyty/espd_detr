@@ -22,3 +22,13 @@ To evaluate the model on the VisDrone validation set, run:
 ```bash
 python val.py --config configs/espd_detr.yaml --weights weights/best.pt
 
+## 🔗 Citation
+If you find our work, code, or pre-trained models useful for your research, please consider citing our paper submitted to The Visual Computer:
+@article{espddetr2026,
+  title={ESPD-DETR: Enhancing Small-Object Representation with Context-Guided Feature Pyramids for UAV Imagery},
+  author={Your Name and Co-authors},
+  journal={The Visual Computer},
+  year={2026},
+  note={Under Review}
+}
+
